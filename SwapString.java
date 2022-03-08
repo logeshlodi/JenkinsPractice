@@ -25,8 +25,7 @@ public class SwapString {
 	public static void main(String[] args) {
 		SwapString string= new SwapString();
 		string.swapWithTemp();
-		string.withoutThirdVariable();
-		
+		string.withoutThirdVariable();		
 	}
 
 }
