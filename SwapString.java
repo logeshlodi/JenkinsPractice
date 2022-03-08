@@ -1,4 +1,3 @@
-package stringConcepts;
 
 public class SwapString {
 
