@@ -1,8 +1,8 @@
 
 public class SwapString {
 
-	String string1="logesh";
-	String string2="lodi";
+	String string1="Logesh";
+	String string2="Lodi";
 	
 	public void swapWithTemp(){
 		System.out.println(string1 +" "+ string2);
